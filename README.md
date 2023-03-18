@@ -1,16 +1,32 @@
-# movarsh
+Movarsh
+Movarsh is a web application that allows users to search for movies and read reviews from other users. Users can also rate movies and leave their own reviews to share their opinions with others.
 
-A new Flutter project.
+Features
+Search for movies by title, genre, or keyword
+View movie details, including cast, plot, and ratings
+Read reviews from other users
+Rate movies and leave your own reviews
+Create and manage your own watchlist
+Share movie information and reviews on social media
+Installation
+To install Movarsh, follow these steps:
 
-## Getting Started
+Clone the repository: git clone https://github.com/ahmadrashed19999/movarsh.git
+Install dependencies: npm install
+Set up the database: npm run setup-db
+Start the server: npm start
+Usage
+To use Movarsh, follow these steps:
 
-This project is a starting point for a Flutter application.
+If you would like to contribute to Movarsh, please follow these guidelines:
 
-A few resources to get you started if this is your first Flutter project:
+Fork the repository
+Create a new branch: git checkout -b feature-name
+Make your changes and commit them: git commit -m "your message"
+Push your changes to the forked repository: git push origin feature-name
+Submit a pull request
+Credits
+Movarsh was created by [Ahmad Albarghash].
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contact
+If you have any questions or suggestions, please contact [ahmdrshyd19@gmail.com]. Thank you for using Movarsh!
